@@ -12,3 +12,6 @@ I've created three level of heading in a Markdown file
 ``` ruby
 var1 = "Hello word"
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
